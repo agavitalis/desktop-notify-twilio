@@ -3,7 +3,7 @@ A [Laravel](https://laravel.com) desktop notifications application with [Twilio]
 
 To have this application on your local machine
 
-i. Clone this repo -- `git clone https://github.com/agavitalis`.
+i. Clone this repo -- `git clone https://github.com/agavitalis/desktop-notify-twilio.git`.
 
 ii. Configure the contents of `.env` file, *especially the database and pusher settings and twilio configuration variables*.
 
